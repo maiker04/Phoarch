@@ -21,7 +21,6 @@ function App() {
     }
   }
   const open = url => window.open(url);
-
   return (
     <div className='body'>
       <header>
